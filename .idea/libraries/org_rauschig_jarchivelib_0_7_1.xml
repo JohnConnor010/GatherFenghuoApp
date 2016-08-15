@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="org.rauschig:jarchivelib:0.7.1" type="repository">
+    <properties maven-id="org.rauschig:jarchivelib:0.7.1" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/rauschig/jarchivelib/0.7.1/jarchivelib-0.7.1.jar!/" />
+      <root url="jar://$USER_HOME$/.m2/repository/org/apache/commons/commons-compress/1.9/commons-compress-1.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/jarchivelib-0.7.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
